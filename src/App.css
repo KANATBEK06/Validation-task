@@ -1,0 +1,9 @@
+.App {
+  height: 38rem;
+  text-align: center;
+  background-color: rgb(196, 219, 252);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
